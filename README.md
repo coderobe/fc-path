@@ -13,7 +13,7 @@ Get the fully-qualified path to a fontconfig match
 #### Build
 `meson build && ninja -C build`
 
-The executable will be built to `build/fc-match`.
+The executable will be built to `build/fc-path`.
 
 ### Usage
 
